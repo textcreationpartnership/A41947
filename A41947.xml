@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Great trappaner of England discovered being a true narrative of many dangerous and abominable practices of one Thomas Violet Goldsmith to trappan the Jews and to ruine many scores of families in and about London : the chief part hereof being sworn before Justice Powell and Justice Blomer and for the rest sufficient and plentiful witnesses are ready to be produced.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41947</idno>
+            <idno type="STC">Wing G1757</idno>
+            <idno type="STC">ESTC R28259</idno>
+            <idno type="EEBO-CITATION">10477635</idno>
+            <idno type="OCLC">ocm 10477635</idno>
+            <idno type="VID">45135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1385:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Great trappaner of England discovered being a true narrative of many dangerous and abominable practices of one Thomas Violet Goldsmith to trappan the Jews and to ruine many scores of families in and about London : the chief part hereof being sworn before Justice Powell and Justice Blomer and for the rest sufficient and plentiful witnesses are ready to be produced.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published as a caution or as a beacon fired to warn all men to beware of such an enemy to mankinde and to arm themselves against him."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Violet, Thomas, fl. 1634-1662.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45135:1" rendition="simple:additions"/>
+            <p>The Great TRAPPANER OF ENGLAND, DISCOVERED.</p>
+            <p>BEING A True <hi>NARRATIAE</hi> of many Dangerous and abominable practiſes of one THOMAS VIOLET Goldſmith, To Trappan the <hi>Jewes,</hi> and to ruine many Scores of Families in and about <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>Publſhed, as a Caution, or, as a Beacon fired to warn all men to beware of ſuch an Enemy to Mankinde, and to Arm themſelves againſt him.</hi>
+            </p>
+            <p>The chief Part hereof being ſvvorn be<g ref="char:EOLhyphen"/>fore Juſtice <hi>Powell,</hi> and Juſtice <hi>Blomer.</hi> And for the reſt ſufficient and plentiful Witneſſes, are ready to be produced.</p>
+            <p>
+               <hi>Printed, In Defence of thoſe whom it concerns, in the year,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45135:2"/>
+            <pb n="1" facs="tcp:45135:2"/>
+            <head>THE GREAT Trappanner of England DISCOVERED.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S man was the Glory of the Creation, ſo is there no ſavage more per<g ref="char:EOLhyphen"/>nitious to Humane Society, or the wel-being of mankind as depraved and degenerating man, which may appear in this enſuing diſcourſe, Epitomizing ſome of the multitude of the black and foul enormityes of <hi>Thomas Violet,</hi> a Name too ſweet for ſo foul a Carkaſs.</p>
+            <p>His Birth was at Sea, as though nature had ordained no Country ſhould be burthen'd to own his Nativity, being Ingendred between a poor Dutch Fidler, and a Mooriſh Woman. How he came into <hi>England</hi> without the help of the <hi>De<g ref="char:EOLhyphen"/>vil,</hi> or ever got into the repute to be intruſted in any mans Service as an Appren<g ref="char:EOLhyphen"/>tiſe, and ſo become a Member of this famous City of <hi>London,</hi> I am altogether ignorant; But ſhall trace him from his being to be a Goldſmith.</p>
+            <p>His firſt way of thriving was by Tranſportation of Gold, the Coyn of this Na<g ref="char:EOLhyphen"/>tion which he followed till defeated and then detected ſuch Merchants as dealt with him to ſome of their ruines and his gaine. That trade ſayling, and being more apt to miſcheif then to follow his lawfull Calling he procured under ſpeci<g ref="char:EOLhyphen"/>ous pretences of Service to the late King and Court in <hi>Nomine Dommine:</hi> and the Nation a Pattent to ſet up an Office for Gold and Silver Wyer and Thred, which he ſo well managed to his own benefit and the ruine of the Artificers, as the cries of thoſe Hundreds of undone Families, their Wives and Orpheans ſufficient<g ref="char:EOLhyphen"/>ly and wofully teſtifie.</p>
+            <p>Many, and as great were the informations againſt him, for divers Monopolies he had ſhare in, which in the mannagement of, he ſo behaved himſelf, that he could very hardly defend himſelf from Corporall puniſhment; But that he was forced to diſgorge moſt part of that ill-gotten <hi>Mammon,</hi> which was ſucked from him by ſome which were then Courtiers, leaving little to himſelf except Infamy and ſhame, and the Curſes of thoſe ſo ruined by his Cheats and Oppreſſions.</p>
+            <p>Thus did he ſhift from Poſt to Pillar, living by that baſe way of Informing, un<g ref="char:EOLhyphen"/>till the unhappy difference and civill Warr of theſe Nations began: when to piece up his Crazy Fortune, fiſhing in theſe troubled Waters, He would then turne Stateſman and wiſh much pretended Allegiance to the King, and as much zeale and duty to the Parliament, he ſhufled his Cards ſo fouly, and plaid his game ſo diſhoneſtly, that had he been caught at <hi>Oxford</hi> he had been hanged there, hardly eſcaping the like here by a long and tedious Impriſonment and Sequeſtration of his Eſtate; for which he now ſaith, the State is in his debt 20000 l. which he hath often affirmed before Authority, and in Courts of Juſtice, and therefore ſaid, it is reaſon he ſhould get it up againe ſome way or other.</p>
+            <pb n="2" facs="tcp:45135:3"/>
+            <p>How he hath lived ſince his inlargement I appeal to all that know him, for in<g ref="char:EOLhyphen"/>ſtead of returning thanks to God for his deliverance, and repenting of his former wickedneſs, he continues ſtill a Common and moſt Horrid Sweater, a debauch'd Drunkard, eſpecially upon Sabbath days, an Epicure and an abominable Lyer, and guilty of many other ennormous and Inhumane Crimes to the great Scandal of our Chriſtian Religion eſpecially amongſt the <hi>Jews,</hi> with whom he is very conver<g ref="char:EOLhyphen"/>ſant; For what he can invent by lying he can eaſily ratifie by ſwearing, and there<g ref="char:EOLhyphen"/>by hopes to poſſeſs himſelf of other mens Eſtates Honeſtly gotten.</p>
+            <p>And now I have named the <hi>Jews,</hi> I thought it not amiſs to give that people an <hi>Item</hi> of his Treacherous intentions to ruine them alſo. Wearied with his former Contrivances he hath at length found out a new way to pay ould debts. He Pe<g ref="char:EOLhyphen"/>titions and follows hard the Parliament and Councill of State to give him Autho<g ref="char:EOLhyphen"/>rity to ſearch for and find out falſe Coyners, he having been more then ſufficient<g ref="char:EOLhyphen"/>ly ſuſpected himſelf for ſuch practiſes (to ſay no more till things be brought to farther light, eſpecially in Gold) under the ſpecious pretence of doing ſtill the Common-wealth Service. And to ingratiate himſelf for that ſervice, brings in a Catalogue of many by him found out; The cheif whereof as he pleaſeth to Name in his ſcandalous and lying Pamphlets are, <hi>Tobias Knowles,</hi> who was forced to ap<g ref="char:EOLhyphen"/>peare and receive a Tryall at the <hi>Old Baily</hi> Seſſions this laſt 24th of <hi>February,</hi> 1659. wherein indeed after a fair hearing, the Jury brought him in Innocent. The Reſidue of his Catalogue being <hi>Garrell, Carter, Preſton, Chitty, Pight, Hatford</hi> and others: Having to their great dammage attended three Seſſions for a Tryall, expecting and much deſiring it with Mr. <hi>Knowles</hi> his Tryall, But this <hi>Violet</hi> (although <hi>Richard Pight</hi> was the Proſecutor and not Hee) prevailed to re<g ref="char:EOLhyphen"/>move their Indictments by <hi>Certiorary</hi> into the Upper Bench with the Indictment againſt himſelf for the ſame offence The bill being found againſt him. This he hath done in policy on purpoſe to ſuſpend their Teſtimony, being all or moſt of them witneſs againſt him: Yet pretends he hath ſpent above 40 l. in proſecution, when 'tis only to deferr and put off Tryalls: to ſave himſelf he having no good good Witneſs, but ſuch who have been guilty of the ſame facts. But he ſpending on other mens Purſes need not care what he ſpends: And as to theſe men laſt mentioned, I verily believe there is ſcarſe one line of truth in all his Printed Pam<g ref="char:EOLhyphen"/>phlets corcerning them.</p>
+            <p>But to keep my word with the <hi>Jews,</hi> and to let the world ſee of what dange<g ref="char:EOLhyphen"/>rous conſequence it may prove, to Arme ſuch a deſperate minded man with ſuch Authority, he fearing neither God nor man, nor to deſtroy the life of any man though it were his own Father, ſo he could but obtaine his own wicked ends; This being the opinion of all that know him, and is generally ſayd of him, having as bad a name as ever I heard man have; Pray take this enſuing diſcovery taken be<g ref="char:EOLhyphen"/>fore ſome of the Juſtices of the Peace, which he ſo boldly Cites in divers his Printed Papers by the Oaths of Honeſt men, <hi>Verbatim;</hi> which may ſufficiently demonſtrate the reaſons of his deſired Authority; And whether it be the Com<g ref="char:EOLhyphen"/>mon good or his own private Lucre he intends to promote by it, let any Ratio<g ref="char:EOLhyphen"/>nall man judge.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:45135:3"/>
+               <head>The DISCOVERY.</head>
+               <p>This Deponent ſaith, that in the beginning of laſt Spring, <hi>Tho. Violet</hi> Gold-Smith came to this Deponent, and told him this Deponent, that the ſaid <hi>Thomas Violet</hi> knew of a way that might make him the ſaid Deponent for ever, and ſo de<g ref="char:EOLhyphen"/>ſired the ſaid Deponent to go along with him, the ſaid <hi>Tho. Violet,</hi> into <hi>Dukes-Place,</hi> whereupon the ſaid Deponent went along with the ſaid <hi>Tho. Violet</hi> into the place before mentioned, and was by him the ſaid <hi>Tho. Violet</hi> brought into the Synagogue of the <hi>Jewes,</hi> in the place aforeſaid, and ſpake with one Mr. <hi>Moſes</hi> their High-Prieſt that year, and other <hi>Jewes;</hi> and this Deponent ſaith further, that the ſaid <hi>Tho. Violet</hi> told the <hi>Jewes,</hi> this Deponent was a fit man to do them ſervice in the buſineſs which he the ſaid <hi>Tho. Violet</hi> had treated with them about; and that afterward, he the ſaid Deponent and the ſaid <hi>Tho. Violet,</hi> went together into <hi>Fiſh-ſtreet,</hi> and that whileſt they were there together, the ſaid <hi>Violet</hi> deſired the ſaid Deponent to procure ſome Patterns of Forreign Coyns, and to bring them to the <hi>Jewes</hi> aforeſaid, to the end they might make choyce of ſuch as they ſhould think fitting; whereunto the ſaid Deponent anſwered, that he thought this action to be unlawful, but then the ſaid <hi>Violet</hi> told the ſaid Deponent, that he ſhould not need to fear any ſuch thing, for he the ſaid <hi>Violet</hi> would acquaint the Parliament and Council of State concerning the buſineſs, who would grant him the ſaid Deponent, and all the he ſhould employ in this buſineſs an Act of Indempnity; then this Deponent procured certain Patterns of Forreign Coyns, and brought them to the <hi>Jewes</hi> aforeſaid, who when they ſaw them, made choyce of them, and deſired the ſaid Deponent to procure a great quantity of ſuch Pieces as they had made choyce of; Then this Deponent came to the ſaid <hi>Violet,</hi> and acquainted him what had paſſed betwixt this Deponent and the <hi>Jewes.</hi> upon his bringing the ſaid Patterns; whereupon the ſaid <hi>Violet</hi> promiſed the ſaid Deponent 200 <hi>li.</hi> to begin the ſaid work, and deſired him the ſaid Deponent, to acquaint Mr. <hi>Pight</hi> Clerk of the Irons in the Tower with the buſineſs in hand, with this Caution, that he ſhould not diſcover to the ſaid <hi>Pight,</hi> that the ſaid <hi>Violet</hi> was any way concer<g ref="char:EOLhyphen"/>ned in it, and that this Deponent did accordingly acquaint Mr. <hi>Pight</hi> aforeſaid, that he the ſaid Deponent did intend to make ſome Pieces as Meddalls for the new Emperour of <hi>Germany,</hi> if the ſaid <hi>Pight</hi> thought it to be lawful, to which the ſaid <hi>Pight</hi> anſwered, that this Deponent needed not doubt to make them, but the ſaid Deponent might go on lawfully, ſo that he was careful he did not meddle with the Coyns of this Commen-wealth; And this Deponent ſaith further, that upon the ſaid <hi>Violets</hi> promiſing him protection as aforeſaid, and the ſaid <hi>Pight</hi> his telling him the buſineſs was lawful, he the ſaid Deponent caſt about 400 Pieces mixt mettall of Copper and Braſſe, which when he had done, the ſaid <hi>Violet</hi> came to him, and told him, that his deſign in this buſineſſe wherein he had employed him the ſaid Deponent, was to Trappan the <hi>Jewes</hi> and to get half their Eſtates, which he the ſaid <hi>Violet</hi> ſaid, the Council of State had promiſed him for the diſcovery of the buſineſs when time ſhould ſerve, and that the ſaid Deponent
+<pb n="4" facs="tcp:45135:4"/>ſhould ſhare with him the ſaid <hi>Violet</hi> in the Booty. And moreover this Deponent ſaith, that for the better carrying on of the ſaid plot, the ſaid <hi>Violet</hi> told him the ſaid Deponent, that he ſhould carry the Pieces which he ſhould make for the <hi>Jewes</hi> to ſome Tavern, and ſend for the <hi>Jewes</hi> thither, and let them receive the the ſaid Pieces there; but withall he ſhould give the ſaid <hi>Violet</hi> notice of it firſt, that the ſaid <hi>Violet</hi> might come and apprehend them in the Intrim. And this De<g ref="char:EOLhyphen"/>ponent ſaith, that when the ſaid <hi>Violet</hi> had diſcovered this his intent unto him the ſaid Deponent, that the ſaid <hi>Violet</hi> told the ſaid Deponent, that he the ſaid <hi>Vi<g ref="char:EOLhyphen"/>olet</hi> would ſtab the ſaid Deponent the next time he met him, if the ſaid Deponent ſhould by any means reveal or diſcover the ſaid <hi>Violets</hi> deſign in the buſineſs a<g ref="char:EOLhyphen"/>foreſaid. Again, this Deponent ſaith, that when the ſaid <hi>Violet</hi> had diſcovered theſe his deſigns unto him the ſaid Deponent, that he the ſaid Deponent did melt down again the pieces aforeſaid, which were made for the <hi>Jewes</hi> aforeſaid. And this Deponent ſaith laſtly, that the ſaid <hi>Violet,</hi> and the ſaid <hi>Pight</hi> diſagreed be<g ref="char:EOLhyphen"/>cauſe the ſaid <hi>Pight</hi> had not taken away the Farthing preſſes, as he had promiſed the ſaid <hi>Violet,</hi> that then the ſaid <hi>Violet</hi> did impeach the ſaid <hi>Pight</hi> with confede<g ref="char:EOLhyphen"/>racy with falſe Coyners, and for allowance given to this Deponent to Coyne the Pieces aforeſaid; and that thereupon the ſaid <hi>Pight</hi> did Impeach the ſaid Depo<g ref="char:EOLhyphen"/>nent for Coyning the ſaid Pieces, which is the true ground of the proſecution a<g ref="char:EOLhyphen"/>gainſt this Deponent.</p>
+               <p>Theſe Affidavits are ſworne, and others to the ſame purpoſe by other Wit<g ref="char:EOLhyphen"/>neſſes before divers of thoſe Juſtices of the Peace as aforeſaid. And the ſaid <hi>Violet</hi> hath produced before the ſaid Juſtices and other Witneſſes, an Order from under Mr. <hi>Scots</hi> hand (as he affirmed) and others of the late Council of State, to encourage him in this buſineſs here related.</p>
+               <p>And this Deponent with divers others further ſay, that the ſaid <hi>Violet</hi> did offer this Deponent 100 <hi>li.</hi> to ſuborne him falſley to ſwear againſt a Juſtice of the Peace of quality and worth, to deſtroy him in his Eſtate and reputation; and af<g ref="char:EOLhyphen"/>terwards the ſaid <hi>Violet</hi> did produce and ſhew unto this Deponent, a paper of above 30 names of Aldermen, Juſtices and other Gentlemen of worth and quality, that the ſaid <hi>Violet</hi> would have had this Deponent falſly to accuſe, and to be ſworn againſt them; but he refuſing ſo to do, the ſaid <hi>Violet</hi> threatned to ſtab him as aforeſaid; and alſo the ſaid <hi>Violet</hi> in further purſuance of his evil and wick<g ref="char:EOLhyphen"/>ed practiſes, meeting with ſeveral honeſt Artiſts, the ſaid <hi>Violet</hi> ſhewed them a paper, and after he had read it to them, he told them in his diſcourſe, that if they would work for him, he would get them a Warrant from the Council of State to indempnifie them, if they would joyn and aſſiſt him to enſnare and Trappan ſeve<g ref="char:EOLhyphen"/>ral Gentlemen, which ſaid honeſt men, as alſo the former Deponent with ſeveral others here, are ready to make Oath of when thereunto required.</p>
+               <p>His Mask being now taken off, he begins to appear in his Colours; And truly I wonder, he that hath from his youth dealt ſo much in Silver and Gold, ſhould now have ſo much Braſſe in his Face, as ſo impudently and in Print to Patronize his miſchiefs under the names of ſuch perſons as the Lord Mayor of <hi>London,</hi> the Lords Commiſſioners of the Great Seal, the Lord Chief Juſtice of <hi>England,</hi> The
+<pb n="5" facs="tcp:45135:4"/>Attorney General, and ſeveral of the late Council of State named in his Papers, as Mr. <hi>Scot</hi> and others, and many other perſons of Honour, Worth and Quality; for which preſumption in all ſober mens opinions, he deſerveth rather the whip or worſe puniſhment, then the leaſt countenance or favour.</p>
+               <p>And in peruſal of his printed papers, beſides his tedious Tautalligies, multi<g ref="char:EOLhyphen"/>tudes of printed ſheets of the ſame things over and over again, imperfection of Language, and multitudes of invented lyes by him and his Compliers. And if the Reader compare the deſign of his four poor Workmen for which he ſeeks indemp<g ref="char:EOLhyphen"/>nity, with the foregoing diſcourſe, which former diſcoveries will be averted alſo, by ſome of thoſe four to be true; any one that runs may read the ſcope of his intentions.</p>
+               <p>There are but a few things more which I ſhall only glance at in this Epitome, out of his printed papers; for I confeſs I have already troubled my ſelf and the Reader too much with ſo bad a ſubject.</p>
+               <p>All ſtill under his former pretence of State Service, Firſt, To ſtrike at the well-being of one <hi>Richard Pight</hi> Clerk of the Irons, a perſon well known by perſons of quality, who know him to be a faithful Servant to the State; Onely he deſigns thereby to get his place, though in his own falſe Engliſh, he ſaith, he would not accept of it; yet I know where he hath told an intimate friend of mine, it is that he aimeth at.</p>
+               <p>Another paſſage is, That notorious falſhood of his, affirming himſelf to be the ſole diſcoverer of the prize taken in Silver at Sea, 1652. whereas the truth is, one <hi>Abraham Johnſon</hi> and others had made it known ten daies before <hi>Violet</hi> heard of it, and were out in the proſecution ſeveral hundreds of pounds, which by his Pe<g ref="char:EOLhyphen"/>titions to the Parliament, and other Records may appear; and <hi>Violet</hi> was only in<g ref="char:EOLhyphen"/>truſted as a Solicitor in the buſineſs. Beſides, this Silver was brought to the Tow<g ref="char:EOLhyphen"/>er by Cornet <hi>Day,</hi> who did it with the hazzard of his life, for which the Protector gave him for his good ſervice 200 <hi>li.</hi> and juſtified in <hi>Richard Pights</hi> Petition lately to the Parliament; yet this <hi>Violet</hi> hath the impudence to attribute this buſineſs to himſelf.</p>
+               <p>And one <hi>Lewellin</hi> whom he hath affirmed in ſeveral of his Papers to be boyld in Oyl in <hi>Dunkirk</hi> for uttering falſe Coyn is falſe, and teſtified by one now in Town who lately came from thence, that he is alive; And one <hi>Walker</hi> who is lately come from <hi>Dunkirk,</hi> whom he depends on as his chief Witneſs, and hath cauſed to ſwear, ſoon after his arrival was apprehended, and lyes now in priſon for a high crime, acted before he went to <hi>Dunkirk,</hi> who alſo was in priſon there, ſuſpected for uttering falſe Coyn, and 'tis ſed is come over but under Bayle. He and ſuch others his Confederates, are the Witneſſes he ſeekes for.</p>
+               <p>And further he ſaith in his Papers, if himſelf and ſome of his Confederates which ſtand indicted may but have an Act of Indempnity, he will diſcover a whole Neſt of falſe Coyners, (as he calls them) when as he himſelf is thought verily to be the chief Actor for whom he would have indempnity, that ſo they may be Free to ſwear, to deſtroy whom he pleaſes; Whoſe daily practiſe and ſtudy it is to uſe all ſubtile Trappaning devices, leaving no action or means unattempted to deſtroy
+<pb n="6" facs="tcp:45135:5"/>others by his invented ſhameleſs lyes, by large promiſes of Rewards and Feaſting; And getting Warrants unjuſtly to charge honeſt and peaceable men with things they are ignorant of, and altogether guiltleſſe in; and are ſo far from acting as he deſperately charges them, that they abhorr the very thoughts of any ſuch in<g ref="char:EOLhyphen"/>tentions.</p>
+               <p>Many other odious and damnable practiſes might here be added, as well out of his lying Pamphlets, as out of his Life and Converſation. To name but one par<g ref="char:EOLhyphen"/>ticular, his deſperate and helliſh ſwearing, If he had but paid according to Law for all the prophane Oaths he hath ſworn, I verily believe he hath ſworn away a great part of the 20000 <hi>li.</hi> (he ſaith) the State owes him; but in truth I am weary of looking, both into his Papers and his Life, and ſhould not have troubled my ſelf to have made this publick, had he not been ſo impudent and incorrigible, and like the deaf Adder to all admonition or repentance.</p>
+               <p>I ſhall now conclude, with my prayers to Almighty God, to turn him from his evil waies, which I think is the diſcharge of my duty to him as a Chriſtian, wiſhing him no evil, but good; however I am ſure this Narrative is the diſcharge of a Chriſtian duty to my Country, and to all I wiſh well unto, who I verily think are cauſleſly great ſufferers. Only before I end, let me tell you, This <hi>Violet</hi> is now, and hath been many years, one of deſperate fortunes, and lives by ſhifts, projects, inticing ſums of money from Gentlemen and Trades-men, with large promiſes of Places or great Gaines, with ſhuffling and ſhifting from Lodging to Lodging, and running into peoples Debts, feaſting and drinking Wine immeaſu<g ref="char:EOLhyphen"/>rably vpon other mens purſes; What if I ſhould ſay 30 Bottles of Wine upon a Sabboth day, he and his Comrades and his accomplices to Health and Carrouſe (as I amt credibly informed.)</p>
+               <p>And by his own Confeſſion (before ſeverall Witneſſes) the chief Abettor and Aſſiſtor of him with money at preſent or lately, to carry on theſe his miſchievous deſigns is, one <hi>Rammage</hi> Farthing-maker in the Tower, whoſe aime in all this buſineſs is, To ſuppreſſe all Tools for making Farthings but his own; the ſaid <hi>Rammage</hi> having proffered a large weekly Sum to be paid to one party, if all the Preſſes for making Farthings may be but taken away about <hi>London</hi> but only his, that ſo he may have the ſole Trade in his hands.</p>
+            </div>
+            <closer>
+               <salute>Farewell till farther occaſion.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>Reader.</head>
+            <p>HEre you have briefly, the true Cauſe of this Viper VIOLET, His Vio<g ref="char:EOLhyphen"/>lent Rage and Proſecution, Who is more fit to live among the Draggons in the Wilderneſs, then among men. Now let the world Judge, Whether this be a man any way fit to be put in any Publick truſt, which he ſo much aims at,</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45135:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
